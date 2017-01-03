@@ -2,7 +2,7 @@
 # Addon Name: Subsonic
 # Addon id: plugin.audio.subsonic
 # Addon Provider: 
-# Addon Translate: Moshkopp 
+# Addon Translate: Gordie 
 
 msgid ""
 msgstr ""
@@ -10,51 +10,51 @@ msgstr ""
 
 msgctxt "#30000"
 msgid "General"
-msgstr "Allgemein"
+msgstr "Général"
 
 msgctxt "#30001"
 msgid "Server"
-msgstr "Server"
+msgstr "Serveur"
 
 msgctxt "#30002"
 msgid "Server URL"
-msgstr "Serveradresse"
+msgstr "URL du serveur"
 
 msgctxt "#30003"
 msgid "Username"
-msgstr "Benutzername"
+msgstr "Nom d'utilisateur"
 
 msgctxt "#30004"
 msgid "Password"
-msgstr "Passwort"
+msgstr "Mot de passe"
 
 msgctxt "#30005"
 msgid "Display"
-msgstr "Anzeige"
+msgstr "Affichage"
 
 msgctxt "#30006"
 msgid "Albums per page"
-msgstr "Alben pro Seite"
+msgstr "Albums par page"
 
 msgctxt "#30007"
 msgid "Tracks per page (ignored in albums & playlists)"
-msgstr "Lieder pro Seite (wird in Alben und Playlisten ignoriert)"
+msgstr "Pistes par page (ignoré dans les albums & listes de lecture)"
 
 msgctxt "#30008"
 msgid "Download"
-msgstr "Download"
+msgstr "Télécharger"
 
 msgctxt "#30009"
 msgid "Download folder"
-msgstr "Download Verzeichnis"
+msgstr "Télécharger le répertoire"
 
 msgctxt "#30010"
 msgid "Streaming"
-msgstr "Übertragung"
+msgstr "Diffusion"
 
 msgctxt "#30011"
 msgid "Transcode format"
-msgstr "Umwandlungs Format"
+msgstr "Format de transcodage"
 
 msgctxt "#30012"
 msgid "Bitrate"
@@ -62,81 +62,80 @@ msgstr "Bitrate"
 
 msgctxt "#30013"
 msgid "Advanced Settings"
-msgstr "Erweitert"
+msgstr "Paramètres avancés"
 
 msgctxt "#30014"
 msgid "API version"
-msgstr "API Version"
+msgstr "Version de l'API"
 
 msgctxt "#30016"
 msgid "Allow self signed certificates"
-msgstr "Erlaube eigensignierte Zertifikate"
+msgstr "Autoriser les certificats auto-signés"
 
 msgctxt "#30017"
 msgid "Cache (in minutes) - not yet implemented"
-msgstr "Speicher (in Minuten) - noch nicht eingebaut"
+msgstr "Cache (en minutes) - pas encore implémenté"
 
 msgctxt "#30018"
 msgid "Cache datas time"
-msgstr "Speicher Daten Zeit"
+msgstr "Durée du cache pour les données"
 
 msgctxt "#30019"
 msgid "Artists"
-msgstr "Künstler"
+msgstr "Artistes"
 
 msgctxt "#30020"
 msgid "Albums"
-msgstr "Alben"
+msgstr "Albums"
 
 msgctxt "#30021"
 msgid "Tracks"
-msgstr "Lieder"
+msgstr "Pistes"
 
 msgctxt "#30022"
 msgid "Playlists"
-msgstr "Playlisten"
+msgstr "Playlists"
 
 msgctxt "#30023"
 msgid "Newest albums"
-msgstr "Neueste Alben"
+msgstr "Nouveaux albums"
 
 msgctxt "#30024"
 msgid "Most played albums"
-msgstr "Häufig gehörte Alben"
+msgstr "Albums les plus joués"
 
 msgctxt "#30025"
 msgid "Recently played albums"
-msgstr "Zuletzt gehörte Alben"
+msgstr "Albums joués récemment"
 
 msgctxt "#30026"
 msgid "Random albums"
-msgstr "Zufällige Alben"
+msgstr "Albums au hasard"
 
 msgctxt "#30029"
 msgid "Next page"
-msgstr "Nächste Seite"
+msgstr "Page suivante"
 
 msgctxt "#30030"
 msgid "Back to Menu"
-msgstr "Hauptmenü"
+msgstr "Retour au menu"
 
 msgctxt "#30031"
 msgid "Item has been unstarred."
-msgstr "Bewertung entfernt"
+msgstr "Cet élément a été retiré des favoris"
 
 msgctxt "#30032"
 msgid "Item has been starred!"
-msgstr "Bewertung hinzugefügt"
+msgstr "Cet élément a été ajouté aux favoris !"
 
 msgctxt "#30033"
 msgid "Star on Subsonic"
-msgstr "Bewerten auf Subsonic"
+msgstr "Ajouter aux favoris Subsonic"
 
 msgctxt "#30034"
 msgid "Unstar on Subsonic"
-msgstr "Löschen auf Subsonic"
+msgstr "Retirer des favoris Subsonic"
 
 msgctxt "#30035"
 msgid "Download"
-msgstr "Herunterladen"
-
+msgstr "Télécharger"
